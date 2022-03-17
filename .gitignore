@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!/.github
+build
+out
+run
